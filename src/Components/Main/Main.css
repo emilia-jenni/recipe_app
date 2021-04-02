@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
+
+main {
+  height: 50vh;
+  background-color: #f9f4f4;
+}
+
+h1 {
+  color: #222121;
+  text-align: center;
+  padding-top: 20px;
+}
